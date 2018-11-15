@@ -12,5 +12,3 @@ An small java app to update your IP on DuckDNS.
 ## Post notes:
 
 Licensed under the WTFPL.
-
-Also I ask you for forgiveness for not having any comments on my code, I lost the original and had to decopile my .JAR with JDCore.
