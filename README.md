@@ -1,4 +1,4 @@
-Update: I'm currently porting this to .NET Core 2.2. Should be up soon.
+Note: I made a .NET Core version and discontinued support for this one. Check here: https://github.com/pedroCX486/duckdns_netcore_updater
 
 # DuckDNS IP Updater
 
