@@ -1,4 +1,7 @@
-Note: I made a .NET Core version and discontinued support for this one. Check here: https://github.com/pedroCX486/duckdns_netcore_updater
+### Notice
+
+I made a .NET Core version (crossplatform. and discontinued support for this one, if it breaks I won't update it. Feel free to do a pull request.  
+Check here the new version: https://github.com/pedroCX486/duckdns_netcore_updater
 
 # DuckDNS IP Updater
 
